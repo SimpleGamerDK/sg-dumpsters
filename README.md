@@ -1,8 +1,8 @@
 # sg-dumpsters
 Dumpsters with inventories for FiveM
 
-This script adds an inventory to all dumpsters around the map. They can be used to store items that you can than later come back and grab.
-Currently the dumpsters inventories are shared but I will try to find a ffix for that later on.
+This script adds a dumpster which can be used to delete items after the server restarts.
+Currently the dumpsters are shared but I will try to find a fix for that later on.
 
 Info
 Resmond 0.00ms idle, 0.01ms when opening dumpster
