@@ -17,7 +17,7 @@ start in your server.cfg
 Done!
 
 Dependencies
-ESX Legacy (might work with 1.1 and 1.2)
+ESX Legacy (might work with 1.2)
 qtarget https://forum.cfx.re/t/qtarget-a-re-written-and-optimised-third-eye-solution/3984356
 PolyZone https://github.com/mkafrin/PolyZone
 Progress Bars (Can be changed to which ever one you use) https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
